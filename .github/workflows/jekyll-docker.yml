@@ -1,5 +1,5 @@
 name: Jekyll site CI
-
+[![Jekyll site CI](https://github.com/haticecan37/getting-started-app/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/haticecan37/getting-started-app/actions/workflows/jekyll-docker.yml)
 on:
   push:
     branches: [ "main" ]
